@@ -23,5 +23,3 @@ library/
 ├── index.html
 ├── style.css
 └── script.js
-link:
-https://github.com/saratazi/library
